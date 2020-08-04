@@ -49,5 +49,6 @@ export default {
     font-size: 30px;
     font-weight: bold;
     opacity: 60%;
+    color: white;
 }
 </style>
