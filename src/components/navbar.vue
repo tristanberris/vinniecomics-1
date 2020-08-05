@@ -1,7 +1,7 @@
 <template>
   <div class="pos-f-t body">
   <nav class="navbar navbar-expand-lg navbar-light justify-content-center">
-  <a class="navbar-brand nav-text" href="#">Vinnie Comics</a>
+  <div class=" nav-text" >Vinnie Comics</div>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -46,9 +46,11 @@ export default {
     opacity: 75%;
 }
 .nav-text{
-    font-size: 30px;
+    font-size: 50px;
     font-weight: bold;
-    opacity: 60%;
-    color: white;
+    opacity: 100%;
+    color: #fff3b2;
+    font-family: 'Antic Slab', serif;
+    letter-spacing: 7px;
 }
 </style>
