@@ -11,7 +11,7 @@
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://instagram.fboi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s750x750/105997006_680221145890965_1299007030214576960_n.jpg?_nc_ht=instagram.fboi1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Mq98SITNVRoAX80bsjP&oh=cd9b30970939cd2f026347e0dd526fc9&oe=5F52C945"
+          src="https://instagram.fboi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/116215947_145794583821962_2686294316445970039_n.jpg?_nc_ht=instagram.fboi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=uJfYGEPUJeAAX8Q8aJm&oh=1b60b7e1fd45112098379bf605020bb9&oe=5F553565"
           alt
         />
       </div>
