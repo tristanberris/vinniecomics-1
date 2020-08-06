@@ -9,6 +9,15 @@ export default new Vuex.Store({
   mutations: {
   },
   actions: {
+    async sendEmail({commit, dispatch}, emailData){
+      try {
+        let res = await api.post("Keeps", emailData)
+        dispatch("getPosts")
+        console.log(res)
+      } catch (error) {
+        console.error(error)
+      }
+    }
   },
   modules: {
   }

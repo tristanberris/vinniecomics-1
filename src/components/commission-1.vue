@@ -136,12 +136,9 @@ export default {
       letter-spacing: 3px;
 
 }
+
 .image {
-  /* border: 2px;
-    border-bottom: 0px;
-  border-style: solid; */
-  /* margin-top: 5px; */
-  /* margin-bottom: 10px; */
+
 }
 .desc {
   
@@ -154,12 +151,7 @@ export default {
   font-size: 25px;
   font-family: "Antic Slab", serif;
 }
-/* .price{
-    background-color: rgb(63, 63, 63);
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
-} */
+
 .com {
   background-color: #fff3b2;
   border-radius: 25px;

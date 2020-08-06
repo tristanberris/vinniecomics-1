@@ -1,26 +1,18 @@
 <template>
   <div class="pos-f-t body">
   <nav class="navbar navbar-expand-lg navbar-light justify-content-center">
-  <div class=" nav-text" >Vinnie Comics</div>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <!-- <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Features</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Pricing</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-    </ul>
-  </div> -->
+      <div class="row">
+  <div class=" nav-text col-12" >Vinnie Comics</div>
+  <div class=" col-12">
+      <a class="link" href="">
+
+      -link to portfolio-
+      </a>
+
+      </div>
+  </div>
+  
+ 
 </nav>
 </div>
 </template>
@@ -52,5 +44,12 @@ export default {
     color: #fff3b2;
     font-family: 'Antic Slab', serif;
     letter-spacing: 7px;
+}
+.link{
+    font-size: 10px;
+    font-weight: bold;
+    color: #fff3b2;
+    font-family: 'Antic Slab', serif;
+    letter-spacing: 4px;
 }
 </style>
