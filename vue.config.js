@@ -1,3 +1,5 @@
+// vue.config.js
 module.exports = {
-    publicPath: ''
-}
+    publicPath: '/vinniecomics/',
+    outputDir: 'docs'
+    }
