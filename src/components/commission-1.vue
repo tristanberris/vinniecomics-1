@@ -4,8 +4,10 @@
     <div class="com com-1 col-3 ml-3 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
-        Animal Crossing
-        <br />Pet Portrait
+       <p>
+       "Animal Crossing
+        <br />Pet Portrait"
+         </p>
       </div>
       <!-- image -->
       <div class="row justify-content-center image">
@@ -132,7 +134,8 @@ export default {
   font-weight: bold;
   color: #814032;
   opacity: 100%;
-  font-family: "Antic Slab", serif;
+  /* font-family: "Antic Slab", serif; */
+  font-family: 'Courier New', Courier, monospace;
       letter-spacing: 3px;
 
 }
