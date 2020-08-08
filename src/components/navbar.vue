@@ -35,12 +35,12 @@ export default {
 .font-size{
     font-size: 2rem;
     
-    opacity: 75%;
+    opacity: .75;
 }
 .nav-text{
     font-size: 50px;
     font-weight: bold;
-    opacity: 100%;
+    /* opacity: 100%; */
     color: #fff3b2;
     font-family: 'Antic Slab', serif;
     letter-spacing: 7px;

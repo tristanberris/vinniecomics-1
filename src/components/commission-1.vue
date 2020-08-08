@@ -133,9 +133,9 @@ export default {
   font-size: 26px;
   font-weight: bold;
   color: #814032;
-  opacity: 100%;
-  /* font-family: "Antic Slab", serif; */
-  font-family: 'Courier New', Courier, monospace;
+  /* opacity: 100%; */
+  font-family: "Antic Slab", serif;
+  /* font-family: 'Courier New', Courier, monospace; */
       letter-spacing: 3px;
 
 }
@@ -145,7 +145,7 @@ export default {
 }
 .desc {
   
-  opacity: 100%;
+  /* opacity: 100%; */
   color: #814032;
 
   /* margin-top: 15px; */
