@@ -57,8 +57,8 @@
     <div class="com com-3 col-3 ml-3 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
-        Digital Painting
-        <br />Pet Portrait
+       <span>  Digital Painting 
+        <br />Pet Portrait </span>
       </div>
       <!-- image -->
       <div class="row justify-content-center image">
