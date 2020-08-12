@@ -29,7 +29,7 @@
       <!-- <div class="row justify-content-center price">$35</div> -->
     </div>
 
-    <div class="com com-2 col-3 ml-5 mr-3 mt-3">
+    <div class="com com-1 com-2 col-3 ml-5 mr-3 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
         Couple
@@ -56,7 +56,7 @@
     </div>
     <div class="col-2"></div>
 
-    <div class="com com-3 col-3 ml-3 mr-5 mt-3">
+    <div class="com com-1 com-3 col-3 ml-3 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
        <span>  Digital Painting 
@@ -81,7 +81,7 @@
       <!-- price -->
       <!-- <div class="row justify-content-center price">$75</div> -->
     </div>
-    <div class="com com-3 col-3 ml-5 mr-3 mt-3">
+    <div class="com com-1 com-3 col-3 ml-5 mr-3 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
         Romantic<br>Popsicles
@@ -126,6 +126,13 @@ export default {
 .com-1 {
   display: inline;
   font-family: "Antic Slab", serif;
+  transition: background-color .5s;
+  box-shadow: 10px 10px 0px #663429;
+}
+.com-1:hover{
+  background-color: #fff8ce; 
+  
+  
 }
 .title {
  
