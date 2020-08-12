@@ -127,15 +127,24 @@ export default {
   display: inline;
   font-family: "Antic Slab", serif;
   transition: background-color .5s;
-  box-shadow: 10px 10px 0px #663429;
+  /* box-shadow: 10px 10px 0px #663429; */
 }
 .com-1:hover{
-  background-color: #fff8ce; 
-  
-  
+  background-color: #fff8ce;   
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.603)
+}
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+li{
+  border-bottom: 1px solid #cfcaa9;
+  text-align: center;
+  padding: 16px
+
 }
 .title {
- 
+
   padding-bottom: 5px;
   font-size: 26px;
   font-weight: bold;
@@ -154,7 +163,7 @@ export default {
   
   /* opacity: 100%; */
   color: #814032;
-
+  justify-content: center;
   /* margin-top: 15px; */
   padding-top: 5px;
   /* border-style: solid; */
