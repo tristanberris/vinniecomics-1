@@ -62,6 +62,7 @@
        <span>  Digital Painting 
         <br />Pet Portrait </span>
       </div>
+      <span class="tag dog-tag">$65</span>
       <!-- image -->
       <div class="row justify-content-center image">
         <img
@@ -126,11 +127,11 @@ export default {
 .com-1 {
   display: inline;
   font-family: "Antic Slab", serif;
-  transition: background-color .5s;
+  transition: background-color .3s;
   /* box-shadow: 10px 10px 0px #663429; */
 }
 .com-1:hover{
-  background-color: #fff8ce;   
+  background-color: #f0e7b6;   
   box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.603)
 }
 ul{
@@ -154,6 +155,70 @@ li{
   /* font-family: 'Courier New', Courier, monospace; */
       letter-spacing: 3px;
 
+}
+.dog-tag{
+  position: absolute;
+  left: 95%;
+  top: 12%;
+  /* transform: rotate(180deg); */
+  rotate: 180deg;
+  
+}
+.tag {
+	display: inline-block;
+  
+  width: auto;
+  height: 60px;
+  
+	
+	background-color: #fff3b2;
+	-webkit-border-radius: 3px 4px 4px 3px;
+	-moz-border-radius: 3px 4px 4px 3px;
+	border-radius: 3px 4px 4px 3px;
+	
+	border-left: 1px solid #fff3b2;
+
+	/* This makes room for the triangle */
+	margin-left: 19px;
+	
+	/* position: relative; */
+	
+	color: #814032;
+	font-weight: 300;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 34px;
+  line-height: 60px;
+   
+
+	padding: 0 10px 0 10px;
+}
+
+/* Makes the triangle */
+.tag:before {
+	content: "";
+	position: absolute;
+	display: block;
+	left: -30px;
+	width: 0;
+	height: 0;
+	border-top: 30px solid transparent;
+	border-bottom: 30px solid transparent;
+  border-right: 30px solid #fff3b2;
+  /* transform: rotate(180deg); */
+}
+
+/* Makes the circle */
+.tag:after {
+	content: "";
+	background-color: #814032;
+	border-radius: 50%;
+	width: 7px;
+	height: 7px;
+	display: block;
+	position: absolute;
+	left: -12px;
+  top: 27px;
+  
 }
 
 .image {
