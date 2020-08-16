@@ -5,10 +5,11 @@
       <!-- title -->
       <div class="row justify-content-center title">
        <p>
-       "Animal Crossing
-        <br />Pet Portrait"
+       Animal Crossing
+        <br />Pet Portrait
          </p>
       </div>
+      <span class="tag dog-tag">$20</span>
       <!-- image -->
       <div class="row justify-content-center image">
         <img
@@ -35,6 +36,7 @@
         Couple
         <br />Portrait
       </div>
+      <span class="tag dog-tag">$35</span>
       <!-- image -->
       <div class="row justify-content-center image">
         <img
@@ -46,7 +48,7 @@
       <!-- description -->
       <div class="row desc">
         <ul>
-          <li>Lorem ipsum dolor sit amet</li>
+          <li>Lorem ipsum dfolor sit amet</li>
           <li>Lorem ipsum dolor sit amet.</li>
           <li>Lorem ipsum dolor sit amet.</li>
         </ul>
@@ -87,6 +89,7 @@
       <div class="row justify-content-center title">
         Romantic<br>Popsicles
       </div>
+      <span class="tag dog-tag">$25</span>
       <!-- image -->
       <div class="row justify-content-center image">
         <img
@@ -127,11 +130,11 @@ export default {
 .com-1 {
   display: inline;
   font-family: "Antic Slab", serif;
-  transition: background-color .3s;
+  transition: background-color .4s;
   /* box-shadow: 10px 10px 0px #663429; */
 }
 .com-1:hover{
-  background-color: #f0e7b6;   
+  background-color: #fff8ce;   
   box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.603)
 }
 ul{
@@ -150,23 +153,22 @@ li{
   font-size: 26px;
   font-weight: bold;
   color: #814032;
-  /* opacity: 100%; */
   font-family: "Antic Slab", serif;
-  /* font-family: 'Courier New', Courier, monospace; */
-      letter-spacing: 3px;
+  letter-spacing: 3px;
 
 }
 .dog-tag{
   position: absolute;
   left: 95%;
   top: 12%;
-  /* transform: rotate(180deg); */
-  rotate: 180deg;
-  
+}
+.tag:hover{
+  transform: rotate(-10deg);
 }
 .tag {
+  transition: .3s;
 	display: inline-block;
-  
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.603);
   width: auto;
   height: 60px;
   
