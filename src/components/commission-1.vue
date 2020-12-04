@@ -14,7 +14,7 @@
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://instagram.fboi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/116215947_145794583821962_2686294316445970039_n.jpg?_nc_ht=instagram.fboi1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=uJfYGEPUJeAAX8Q8aJm&oh=1b60b7e1fd45112098379bf605020bb9&oe=5F553565"
+          src="https://i.imgur.com/qng02is.jpg"
           alt
         />
       </div>
@@ -41,7 +41,7 @@
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://instagram.fboi1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/96173059_2311168605858335_4094833614201353109_n.jpg?_nc_ht=instagram.fboi1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=TZaAJiGAhMwAX9S_YA4&oh=13fac57e7eabddc001ed9ad2ddee1881&oe=5F52090B"
+          src="https://i.imgur.com/xb0zKFH.jpg"
           alt
         />
       </div>
@@ -69,7 +69,7 @@
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://instagram.fboi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/110363858_695142728002505_4120438381942782556_n.jpg?_nc_ht=instagram.fboi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=Y4vnXDB3_sEAX_KX5ha&oh=053d8dc346bf40c8c31723d432802756&oe=5F547F14"
+          src="https://i.imgur.com/W8JNmKr.jpg"
           alt
         />
       </div>
@@ -94,7 +94,7 @@
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://instagram.fboi1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116558351_923645838133901_6093552401345993248_n.jpg?_nc_ht=instagram.fboi1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=nSHqPHAENGYAX9dO0Iy&oh=f7b89f9ab92da96bc7eacf009f103948&oe=5F547178"
+          src="https://i.imgur.com/2JZn3RT.jpg"
           alt
         />
       </div>
