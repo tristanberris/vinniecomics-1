@@ -1,10 +1,9 @@
 <template>
   <div class="row justify-content-center">
-    <div class="col-2"></div>
-    <div class="com com-1 col-3 ml-3 mr-5 mt-3">
+    <div class="com com-1 col-lg-4 col-sm-6 ml-5 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
-       <p>
+       <p class="mt-3">
        Animal Crossing
         <br />Pet Portrait
          </p>
@@ -30,7 +29,7 @@
       <!-- <div class="row justify-content-center price">$35</div> -->
     </div>
 
-    <div class="com com-1 com-2 col-3 ml-5 mr-3 mt-3">
+    <div class="com com-1 com-2 col-lg-4 col-sm-6 ml-5 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
         Couple
@@ -56,9 +55,8 @@
       <!-- price -->
       <!-- <div class="row justify-content-center price">$60</div> -->
     </div>
-    <div class="col-2"></div>
 
-    <div class="com com-1 com-3 col-3 ml-3 mr-5 mt-3">
+    <div class="com com-1 com-3 col-lg-4 col-md-6 ml-5 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
        <span>  Digital Painting 
@@ -84,7 +82,7 @@
       <!-- price -->
       <!-- <div class="row justify-content-center price">$75</div> -->
     </div>
-    <div class="com com-1 com-3 col-3 ml-5 mr-3 mt-3">
+    <div class="com com-1 com-3 col-lg-4 col-md-6 ml-5 mr-5 mt-3">
       <!-- title -->
       <div class="row justify-content-center title">
         Romantic<br>Popsicles
