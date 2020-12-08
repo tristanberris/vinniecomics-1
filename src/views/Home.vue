@@ -15,9 +15,10 @@
         <div class="form-group">
           <label for="sel1">Select list</label>
           <select class="form-control" id="sel1">
-            <option>Animal Crossing Pet Portrait - $35</option>
-            <option>Couple Portrait - $60</option>
-            <option>Digital Painting Pet Portrait - $75</option>
+            <option>Pet Illustration (Stylized) - $60</option>
+            <option>Couple Portrait - $75</option>
+            <option>Digital Painting Pet Portrait - $65</option>
+            <option>Romantic Popsicles - $25</option>
           </select>
         </div>
         <div class="form-group">

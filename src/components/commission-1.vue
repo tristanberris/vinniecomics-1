@@ -4,25 +4,25 @@
       <!-- title -->
       <div class="row justify-content-center title">
        <p class="mt-3">
-       Animal Crossing
-        <br />Pet Portrait
+       Pet Illustation
+        <br />-Stylized- 
          </p>
       </div>
-      <span class="tag dog-tag">$20</span>
+      <span class="tag dog-tag">$60</span>
       <!-- image -->
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://i.imgur.com/qng02is.jpg"
+          src="https://i.imgur.com/817EseQ.jpg"
           alt
         />
       </div>
       <!-- description -->
       <div class="row desc">
         <ul>
-          <li>Lorem ipsum dolor sit aet</li>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet.</li>
+          <li>Insert your pet into a cute illustrated scene</li>
+          <li>Can be as simple or detailed as you’re looking for</li>
+          <li style="border-bottom: none">Final file will be digital but print ready</li>
         </ul>
       </div>
       <!-- price -->
@@ -35,21 +35,21 @@
         Couple
         <br />Portrait
       </div>
-      <span class="tag dog-tag">$35</span>
+      <span class="tag dog-tag">$75</span>
       <!-- image -->
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://i.imgur.com/xb0zKFH.jpg"
+          src="https://i.imgur.com/q1jfjWw.jpg"
           alt
         />
       </div>
       <!-- description -->
-      <div class="row desc">
+      <div class="row desc ">
         <ul>
-          <li>Lorem ipsum dfolor sit amet</li>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet.</li>
+          <li>Illustrated portrait of you and your partner</li>
+          <li>Optional simple background of your choosing</li>
+          <li style="border-bottom: none">Final file will be digital but print ready</li>
         </ul>
       </div>
       <!-- price -->
@@ -67,16 +67,16 @@
       <div class="row justify-content-center image">
         <img
           class="img-fluid"
-          src="https://i.imgur.com/W8JNmKr.jpg"
+          src="https://i.imgur.com/PZ6w2Tl.jpg"
           alt
         />
       </div>
       <!-- description -->
       <div class="row desc">
         <ul>
-          <li>Lorem ipsum dolor sit amet</li>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet.</li>
+          <li>Realistic digital painting of your pet</li>
+          <li>Optional simple background of your choosing</li>
+          <li style="border-bottom: none">Final file will be digital but print ready</li>
         </ul>
       </div>
       <!-- price -->
@@ -99,9 +99,9 @@
       <!-- description -->
       <div class="row desc">
         <ul>
-          <li>Lorem ipsum dolor sit amet</li>
-          <li>Lorem ipsum dolor sit amet.</li>
-          <li>Lorem ipsum dolor sit amet.</li>
+          <li>Cute and simple design of you and your partner as popsicles!</li>
+          <li>Unlike a real popsicle these are immortal and cannot melt</li>
+          <li style="border-bottom: none">Final file will be digital but print ready</li>
         </ul>
       </div>
       <!-- price -->
@@ -155,6 +155,18 @@ li{
   letter-spacing: 3px;
 
 }
+/* .overflow{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 600px;
+  content: "Hover for info!";
+}
+.overflow:hover{
+  text-overflow: clip;
+  white-space: normal;
+  word-break: break-all;
+} */
 .dog-tag{
   position: absolute;
   left: 95%;

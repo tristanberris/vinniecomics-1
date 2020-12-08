@@ -4,11 +4,11 @@
       <div class="row">
   <div class=" nav-text col-12" >Vinnie Comics</div>
   <div class=" col-12">
-        <router-link class="link" to="/Portfolio">
+        <!-- <router-link class="link" to="/Portfolio">
       
       -link to portfolio-
       
-        </router-link>
+        </router-link> -->
 
       </div>
   </div>
